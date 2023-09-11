@@ -1,1 +1,1 @@
-# Chakshu125
+E-commerce app allows users to shop online, browse product, create wish lists, add items to a cart, and complete purchases. It also provides payment processing, shipping. Technologies that I have used are JavaScript, HTML, CSS.
